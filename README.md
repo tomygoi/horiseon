@@ -6,8 +6,9 @@ This project was done as the first on-the-job ticket which we were tasked with r
 
 ##Usage 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The webpage can be accessed via [insert link here]. The navigation buttons at the top-right of the webpage will redirect to the corresponding sections of the page. 
-[insert screenshot here] 
+The webpage can be accessed via [https://tomygoi.github.io/horiseon/]. The navigation buttons at the top-right of the webpage will redirect to the corresponding sections of the page. 
+![horiseonDeployed](https://user-images.githubusercontent.com/120353691/209242026-6e331dc5-ee55-442c-be56-0e95554eae60.png)
+
 
 ##Credit 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
