@@ -89,6 +89,7 @@ p {
     background-color: #2589bd;
 }
 
+/*condenses overlapping class selectors and rules*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
